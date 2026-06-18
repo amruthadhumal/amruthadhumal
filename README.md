@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **AI/ML Projects**
 
-- 🌱 I have extensive practical expertise with **Python,Pandas,SQL,Machine Learning,Generative AI,NLP,LLM,Deep Learning,Neaural Networks,OpenCV**
+- 🌱 I have extensive practical expertise with **Python,Pandas,SQL,Machine Learning,Generative AI,NLP, LLM, Deep Learning,Neural Networks, Power BI, OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amruthadhumal](https://github.com/amruthadhumal)
 
