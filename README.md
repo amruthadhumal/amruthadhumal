@@ -16,7 +16,7 @@ _________________________________________________________________
 
 **Computer Vision**: OpenCV | YOLOv11 | Object Detection | Image & Video Processing
 
-**Libraries & Frameworks**: Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+**Libraries & Frameworks**: Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Pytorch
 
 **Database**: MySQL | PostgreSQL
 
