@@ -12,7 +12,7 @@ _________________________________________________________________
 
 **Programming & Tools**: Python | GitHub | Google Colab | VS code | Power BI
 
-**AI & Machine Learning**: Supervised & Unsupervised Learning | Deep Learning | NLP (Natural Language Processing) | Generative AI | Prompt Engineering.
+**AI & Machine Learning**: Supervised & Unsupervised Learning | Deep Learning | NLP (Natural Language Processing) | Generative AI | Prompt Engineering | LLM.
 
 **Computer Vision**: OpenCV | YOLOv11 | Object Detection | Image & Video Processing
 
